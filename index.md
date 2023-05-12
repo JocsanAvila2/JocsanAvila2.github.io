@@ -19,3 +19,6 @@ Lab 5, Part 1 is another favorite because it helped me understand what arguments
 * Lab 9
 
 Lab 9, Part 1 is my third favorite as it made me learn how to use input and output functions with statements that required other files. These functions included std::ifstream and outf{filename} to access these files and convert the information into working code. Since the program compiled a list of words for a guessing game, it needed statements that could access specific files and convert the information into words used for the program. While this concept seemed easy to understand, writing it into code took trail and errors to finally have the program functioning properly. 
+
+
+// I love computer science.
